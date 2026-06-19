@@ -1,0 +1,15 @@
+{
+  "name": "boardroom",
+  "version": "1.0.0",
+  "description": "Two advisory panels you can summon for counsel. The 'advisory-board' skill channels 18 personas across business, philosophy, creativity, persuasion, and science (Munger, Buffett, Naval, Musk, Bezos, Jensen, Thiel, Rubin, Voss, Cialdini, Holiday, Gary V, Adams, Dario, Karpathy, Deutsch, Robbins, Sagan). The 'code-team' skill channels the people building Claude Code plus Matt Pocock for AI coding workflows, hooks and plugins, CLAUDE.md philosophy, and engineering discipline.",
+  "author": {
+    "name": "Eirik Rorvig"
+  },
+  "keywords": [
+    "advisory-board",
+    "personas",
+    "decision-making",
+    "claude-code",
+    "strategy"
+  ]
+}
