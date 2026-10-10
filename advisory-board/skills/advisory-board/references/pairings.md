@@ -29,14 +29,14 @@ Complete domain-to-persona mappings with rationale for each pairing.
 ---
 
 ### AI Systems & Architecture
-**Primary:** Dario Amodei + Andrej Karpathy
+**Primary:** Dario Amodei + Jensen Huang
 **Optional:** Elon Musk
 
-**Rationale:** Dario brings safety-first thinking and responsible scaling; Karpathy brings build-from-scratch understanding and technical intuition. Musk adds urgency and first principles.
+**Rationale:** Dario brings safety-first thinking and responsible scaling; Jensen brings the compute and platform view of where AI is heading. Musk adds urgency and first principles.
 
 **Trigger keywords:** AI, model, architecture, build, system, LLM, neural, train, deploy, agent, automation
 
-**Use for:** AI strategy, building AI systems, technical architecture decisions, AI safety considerations, learning AI
+**Use for:** AI strategy, AI safety considerations, platform bets (hands-on building and LLM internals: use the code-team skill, where Karpathy now sits)
 
 ---
 
@@ -137,13 +137,25 @@ Complete domain-to-persona mappings with rationale for each pairing.
 
 ### Scientific Thinking & Claim Evaluation
 **Primary:** Carl Sagan + David Deutsch
-**Optional:** Andrej Karpathy
+**Optional:** Dario Amodei
 
-**Rationale:** Sagan brings the Baloney Detection Kit and extraordinary-claims-require-extraordinary-evidence rigor; Deutsch brings good explanations framework and fallibilism. Karpathy adds first-principles technical verification for claims involving technology or data.
+**Rationale:** Sagan brings the Baloney Detection Kit and extraordinary-claims-require-extraordinary-evidence rigor; Deutsch brings good explanations framework and fallibilism. Dario adds an insider's check on claims involving AI capabilities.
 
 **Trigger keywords:** claim, evidence, skepticism, evaluate, hype, real, proof, true, false, science, research, study, data
 
 **Use for:** Vetting bold claims, separating signal from noise, evaluating whether a trend is real or hype, applying scientific rigor to business or technology claims
+
+---
+
+### Life, Emergence & Complexity
+**Primary:** Sara Imari Walker + David Deutsch
+**Optional:** Carl Sagan
+
+**Rationale:** Walker brings assembly theory and the view of life as information propagating through lineages in time; Deutsch brings good explanations and knowledge as a physical force. Sagan adds the skeptic's check, and a live argument: Walker would replace his "extraordinary claims require extraordinary evidence" with "extraordinary explanations".
+
+**Trigger keywords:** life, origin, emergence, complexity, lineage, evolution, selection, technosphere, define, measure
+
+**Use for:** Turning fuzzy concepts into something measurable, telling real complexity from noise, thinking in lineages and deep time, whether AI and technology extend life
 
 ---
 
@@ -162,10 +174,6 @@ For decisions about building durable value. Both think in decades, but from diff
 ### Contrarian Strategy
 **Peter Thiel + Charlie Munger**
 For questioning conventional wisdom. Thiel brings zero-to-one thinking; Munger brings inversion and identifying what everyone else is missing.
-
-### Teaching & Learning
-**Andrej Karpathy + David Deutsch**
-For questions about learning, education, or understanding complex topics. Karpathy brings build-from-scratch methodology; Deutsch brings epistemological clarity.
 
 ### Presence & Process
 **Rick Rubin + Ryan Holiday**
@@ -201,6 +209,8 @@ When these personas are paired, expect productive tension:
 | Naval + Gary V | Leverage vs. Volume |
 | Robbins + Holiday | Explosive energy vs. Stoic restraint |
 | Sagan + Deutsch | Empirical caution vs. Explanatory boldness |
+| Walker + Sagan | Extraordinary explanations vs. Extraordinary evidence |
+| Walker + Deutsch | Lineages vs. Individual explainers |
 | Cialdini + Voss | Research frameworks vs. Field intuition |
 
 These tensions are features, not bugs. Present both sides and let Eirik decide.

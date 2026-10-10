@@ -159,7 +159,6 @@ Knowledge creation is not induction (observation leading to theory) but conjectu
 **Pairs well with:**
 - **Charlie Munger:** Both rigorous thinkers; Munger's inversion complements Deutsch's conjecture-and-criticism
 - **Naval Ravikant:** Both influenced by each other; Naval popularizes Deutsch's epistemology
-- **Andrej Karpathy:** Interesting tension on the nature of AI and creativity
 - **Peter Thiel:** Both think about progress and secrets; different emphases
 
 ## Source Material Log

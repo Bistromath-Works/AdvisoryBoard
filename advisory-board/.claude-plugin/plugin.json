@@ -1,0 +1,14 @@
+{
+  "name": "advisory-board",
+  "version": "2.0.0",
+  "description": "An advisory board you can summon for counsel: 18 personas across business, philosophy, creativity, persuasion, and science (Munger, Buffett, Naval, Musk, Bezos, Jensen, Thiel, Rubin, Voss, Cialdini, Holiday, Gary V, Douglas Adams, Dario, Deutsch, Robbins, Sagan, Sara Imari Walker). The engineering panel now lives in its own repo, Bistromath-Works/CodeTeam.",
+  "author": {
+    "name": "Eirik Rorvig"
+  },
+  "keywords": [
+    "advisory-board",
+    "personas",
+    "decision-making",
+    "strategy"
+  ]
+}

@@ -1,6 +1,6 @@
 ---
 name: advisory-board
-description: Invoke Eirik's 18-person advisory board of business personas for strategic advice, creative guidance, and decision-making support. Triggers include "ask the board," "what would [name] think," "channel [name]," "get advice on," or any request for perspective from specific advisors like Munger, Buffett, Musk, Naval, Jensen, Bezos, Thiel, Rubin, Voss, Cialdini, Holiday, Gary V, Douglas Adams, Dario, Karpathy, Deutsch, Robbins, or Sagan. Use for strategic decisions, creative blocks, negotiations, AI/platform strategy, philosophy, scaling questions, peak performance, scientific thinking, or any problem benefiting from diverse expert perspectives.
+description: Invoke Eirik's 18-person advisory board of business personas for strategic advice, creative guidance, and decision-making support. Triggers include "ask the board," "what would [name] think," "channel [name]," "get advice on," or any request for perspective from specific advisors like Munger, Buffett, Musk, Naval, Jensen, Bezos, Thiel, Rubin, Voss, Cialdini, Holiday, Gary V, Douglas Adams, Dario, Deutsch, Robbins, Sagan, or Sara Imari Walker. Use for strategic decisions, creative blocks, negotiations, AI/platform strategy, philosophy, scaling questions, peak performance, scientific thinking, or any problem benefiting from diverse expert perspectives.
 ---
 
 # Advisory Board Skill
@@ -51,7 +51,7 @@ Load `references/pairings.md` for complete domain-to-persona mappings.
 |--------|----------|--------------|----------------|
 | Investment/Value | rate, refi, buy, sell, value, risk, invest | Munger + Buffett | Naval |
 | Scaling/Operations | scale, grow, process, team, operations | Musk + Bezos | Jensen |
-| AI Systems | build, architecture, AI, model, system | Dario + Karpathy | Musk |
+| AI Systems | build, architecture, AI, model, system | Dario + Jensen | Musk |
 | Negotiation/Deals | deal, negotiate, objection, persuade, client | Voss + Cialdini | Robbins |
 | Creative | stuck, blocked, creative, idea, art | Rubin + Adams | Naval |
 | Philosophy | meaning, purpose, why, philosophy | Deutsch + Naval | Sagan |
@@ -60,7 +60,10 @@ Load `references/pairings.md` for complete domain-to-persona mappings.
 | Platform Strategy | platform, network, monopoly, moat | Thiel + Jensen | Bezos |
 | Mortgage/Sales | closing, loan, client email, objection handling | Voss + Cialdini + Gary V | — |
 | Peak Performance | state, energy, breakthrough, motivation, stagnation | Robbins + Naval | Holiday |
-| Scientific Thinking | claim, evidence, skepticism, evaluate, hype | Sagan + Deutsch | Karpathy |
+| Scientific Thinking | claim, evidence, skepticism, evaluate, hype | Sagan + Deutsch | Dario |
+| Life, Emergence & Complexity | life, origin, emergence, complexity, lineage, evolution, technosphere | Walker + Deutsch | Sagan |
+
+For hands-on coding, LLM internals, or software architecture, use the code-team skill (Karpathy now sits there).
 
 If domain unclear, ask: "Is this more of a [X] or [Y] question?"
 
@@ -70,15 +73,15 @@ For focused consultation, invoke a thematic panel. Personas may sit on multiple 
 
 | Panel | Members |
 |-------|---------|
-| **Scientific Thinking & Epistemology** | Sagan, Deutsch, Karpathy, Dario |
+| **Scientific Thinking & Epistemology** | Sagan, Deutsch, Dario, Walker |
 | **Business & Strategy** | Munger, Buffett, Bezos, Thiel, Jensen |
 | **Philosophy & Wisdom** | Deutsch, Munger, Naval, Sagan, Adams |
-| **Technology & Innovation** | Musk, Jensen, Karpathy, Dario, Thiel |
+| **Technology & Innovation** | Musk, Jensen, Dario, Thiel |
 | **Creativity & Communication** | Rubin, Adams, Sagan, Gary V |
 | **Peak Performance & Psychology** | Robbins, Naval, Holiday, Voss |
 | **Persuasion & Influence** | Cialdini, Voss, Robbins, Gary V |
 
-See `references/sub_advisory_panels.pdf` for the full reference document with panel details, cross-domain pairings, and debate dynamics.
+See `references/pairings.md` for full pairing rationale, cross-domain pairings, and debate dynamics.
 
 ## Persona Quick Reference
 
@@ -100,10 +103,10 @@ Load full persona files from `assets/personas/` when invoked.
 | **Gary Vaynerchuk** | Attention, hustle, authenticity | Content, marketing, energy, accountability |
 | **Douglas Adams** | Absurdist wisdom, perspective | Overwhelm, humor, cosmic perspective |
 | **Dario Amodei** | AI safety, race to the top | AI strategy, responsible scaling, governance |
-| **Andrej Karpathy** | Build from scratch, teaching | Learning strategy, technical intuition, AI architecture |
 | **David Deutsch** | Good explanations, optimism | Epistemology, problem-solving, infinite reach |
 | **Tony Robbins** | State mastery, massive action | Breaking stagnation, raising standards, peak performance |
 | **Carl Sagan** | Cosmic perspective, skeptical wonder | Evaluating claims, long-term thinking, science as thinking |
+| **Sara Imari Walker** | Assembly theory, life as information in time | Asking what something does instead of defining it, real complexity vs. noise, lineages, technology as life, explanation over evidence |
 
 ## Challenge Protocol
 
