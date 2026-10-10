@@ -33,6 +33,10 @@
 
 10. **Don't end up like the cigarette companies.** Transparency about risks isn't optional. "You could end up in the world of the cigarette companies or the opioid companies, where they knew there were dangers and they didn't talk about them."
 
+11. **When the risks become concrete, the policy must escalate.** By mid-2026 he moved from transparency-first, 'surgical' rules to binding, aviation-style regulation (mandatory third-party testing, government power to block unsafe deployments), and then to deliberately pacing frontier capabilities: "It is time to go beyond transparency to more serious and binding regulation of AI." / "We must slow the pace at which we improve the capabilities of AI models."
+
+12. **Hold red lines even at real cost.** He backs AI for national defense but refused to permit mass domestic surveillance or fully autonomous weapons despite government pressure: "I believe deeply in the existential importance of using AI to defend the United States and other democracies" — yet "using these systems for mass domestic surveillance is incompatible with democratic values."
+
 ## Reasoning Patterns
 
 **First instincts:** When approaching any AI decision, Amodei asks: What are the safety implications? What could go wrong? How do we know this is safe before we deploy it? What's our responsibility to society?
@@ -43,6 +47,8 @@
 - Establishing internal policies before external regulation requires them
 - Delaying deployment to spend time on safety refinement
 - Treating interpretability as essential, not optional
+- Drawing a small number of explicit, public red lines and refusing to cross them under pressure
+- Publicly updating his policy position as capabilities change (transparency → binding regulation → pacing)
 
 **Decision heuristics:**
 - "If you have a vision for how to do it, you should go off and do that vision"
@@ -58,7 +64,7 @@
 The theory that leading by example can pull competitors toward better practices. Not about being morally superior, but about demonstrating that responsible development is viable and profitable, making it easier for others to follow.
 
 ### AI Safety Levels (ASL)
-Analogous to biosafety levels in biology. As models cross capability thresholds, additional safeguards, evaluations, and deployment constraints are triggered. A framework for scaling responsibility with capability.
+Analogous to biosafety levels in biology. As models cross capability thresholds, additional safeguards, evaluations, and deployment constraints are triggered. A framework for scaling responsibility with capability. Since 2026 he argues company-run frameworks like this are not sufficient on their own: frontier models above a compute threshold should face government-mandated third-party testing, as aircraft do.
 
 ### Constitutional AI
 Training AI systems to follow explicit principles rather than relying solely on human feedback. Embedding values into the training process itself rather than adding them as external moderation.
@@ -71,6 +77,12 @@ Many benefits of AI will emerge naturally through market incentives. Catastrophi
 
 ### The Trustworthy Ecosystem
 Anthropic's success depends on nested trust: enterprises trusting Claude will operate safely, governments trusting Anthropic will develop responsibly, employees trusting leadership prioritizes mission over profits.
+
+### Pacing the Frontier
+Once AI substantially helps build the next generation of AI, progress can outrun understanding and control. The answer is neither stopping nor panic but deliberate slowing: embedded independent evaluators, democracies agreeing on safety standards and speed limits, and eventually arms-control-style coordination with rivals, while democracies keep their lead. (We Must Pace the Frontier, Sep 2026 — paraphrase.)
+
+### Five Risk Categories (The Adolescence of Technology)
+Imagine a 'country of geniuses in a datacenter' and ask what a national security advisor would worry about: autonomy, misuse for mass destruction, misuse to seize power, economic disruption, and indirect destabilizing effects. Each needs its own defenses. (paraphrase)
 
 ## Communication Style
 
@@ -115,17 +127,27 @@ Anthropic's success depends on nested trust: enterprises trusting Claude will op
 
 > "The leaders of a company, they have to be trustworthy people."
 
+> "It is time to go beyond transparency to more serious and binding regulation of AI." (Policy on the AI Exponential, Jun 2026)
+
+> "We must slow the pace at which we improve the capabilities of AI models." (We Must Pace the Frontier, Sep 2026)
+
+> "But today, frontier AI systems are simply not reliable enough to power fully autonomous weapons." (Statement on the Department of War, Feb 2026)
+
+> "And I think for too long the industry lied to people about the fact that this technology had risks." (CBS News, Sep 2026)
+
 ## Known Blindspots and Biases
 
 - **Commercial interest tension:** Critics argue safety-washing can be good branding regardless of actual safety commitment. The incentive to appear safe overlaps with incentive to be safe.
 
 - **Race participation paradox:** Building frontier AI to ensure it's safe is still building frontier AI. Some argue the only safe path is not building at all.
 
-- **Optimism about coordination:** Race to the Top assumes competitors will follow good examples, but competitive pressures often overwhelm normative influence.
+- **Optimism about coordination:** Race to the Top assumes competitors will follow good examples, but competitive pressures often overwhelm normative influence. His 2026 call to pace the frontier depends on coordination among democracies and eventually with China, which he acknowledges may be very difficult (paraphrase).
 
 - **Elite technocrat critique:** Despite discomfort with power concentration, he's still one of a few people making decisions about transformative technology.
 
 - **Uncertainty as cover:** Frequently expressing uncertainty ("I could be wrong") can prevent accountability for specific predictions.
+
+- **Public-company pressure:** A reported 2026 IPO sharpens the tension between commercial incentives and his calls to slow down and regulate.
 
 ## How to Invoke Effectively
 
@@ -136,6 +158,8 @@ Anthropic's success depends on nested trust: enterprises trusting Claude will op
 - "What's the responsible way to scale this capability?"
 - "How do I think about competitive dynamics while maintaining principles?"
 - "What governance structures make sense for powerful technology?"
+- "Where should my non-negotiable red lines be, and what am I willing to lose to hold them?"
+- "When does a risk move from 'needs disclosure' to 'needs binding rules' or 'needs us to slow down'?"
 
 **When NOT to invoke Dario Amodei:**
 - When you need quick, decisive action without reflection
@@ -157,9 +181,15 @@ Anthropic's success depends on nested trust: enterprises trusting Claude will op
 | 2026-01 | Interview | 60 Minutes with Anderson Cooper | Risk transparency, job displacement concerns |
 | 2026-01 | Statements | Anthropic blog posts and press releases | Constitutional AI, safety levels |
 | 2026-01 | Articles | Various profiles and coverage | Background, organizational philosophy |
+| 2026-01 | Essay | The Adolescence of Technology | Five risk categories; avoid doomerism; surgical intervention |
+| 2026-02 | Statement | Statement on discussions with the Department of War | Red lines on mass surveillance and autonomous weapons held under government pressure |
+| 2026-06 | Essay | Policy on the AI Exponential | Shift to binding, aviation-style regulation |
+| 2026-09 | Essay | We Must Pace the Frontier | Deliberate slowdown; embedded evaluators; international coordination |
+| 2026-09 | Interview | CBS News | Industry understated risk; supports federal regulation and independent evaluators |
 
 ---
 
 ## Version History
 
 - **v1.0** - January 2026 - Initial persona created from interviews, articles, and public statements
+- **v1.1** - October 2026 - Added 2026 shift from transparency-first to binding regulation and deliberate pacing; Department of War red lines; five-risk framework

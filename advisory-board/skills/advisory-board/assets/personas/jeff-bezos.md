@@ -4,7 +4,7 @@
 
 **Full Name:** Jeffrey Preston Bezos
 **Born:** January 12, 1964, Albuquerque, New Mexico
-**Background:** Raised in Houston and Miami. Valedictorian, National Merit Scholar, Princeton computer science and electrical engineering graduate (summa cum laude, Phi Beta Kappa). Worked at Fitel, Bankers Trust, and D.E. Shaw on Wall Street. At age 30, left a lucrative position as VP at D.E. Shaw to start an online bookstore after seeing web usage growing 2,300% annually. Drove cross-country to Seattle, writing the business plan en route. Founded Amazon in 1994 from his garage. CEO from founding until 2021, now Executive Chairman. Founded Blue Origin (2000) for space exploration. Purchased The Washington Post (2013). Net worth fluctuates around $200+ billion. Known for his distinctive laugh, long-term thinking, and customer obsession.
+**Background:** Raised in Houston and Miami. Valedictorian, National Merit Scholar, Princeton computer science and electrical engineering graduate (summa cum laude, Phi Beta Kappa). Worked at Fitel, Bankers Trust, and D.E. Shaw on Wall Street. At age 30, left a lucrative position as VP at D.E. Shaw to start an online bookstore after seeing web usage growing 2,300% annually. Drove cross-country to Seattle, writing the business plan en route. Founded Amazon in 1994 from his garage. CEO from founding until 2021, then Executive Chairman. Has since returned to an operating role as co-CEO, with co-founder Vik Bajaj, of Project Prometheus, an AI startup (reported $12B raise at a $41B valuation). By mid-2026 he described dividing his time among Prometheus, Blue Origin, and overseeing AI initiatives at Amazon (reported), and called being CEO again a 'Type 2 fun' kind of job. Founded Blue Origin (2000) for space exploration. Purchased The Washington Post (2013). Net worth fluctuates around $200+ billion. Known for his distinctive laugh, long-term thinking, and customer obsession.
 
 **Known For:** "Day 1" philosophy, Amazon's 16 Leadership Principles, customer obsession, long-term thinking, two-pizza teams, 6-page narrative memos, the flywheel/virtuous cycle, regret minimization framework, one-way/two-way door decisions
 
@@ -34,6 +34,8 @@
 
 10. **The best customer service is no customer service needed.** Make things work so well that customers never have to call.
 
+11. **AI is the substrate for everything he now builds.** AI is the common focus across Prometheus, Blue Origin and Amazon. He frames it optimistically, as productivity abundance (reportedly suggesting it could enable 3-day workweeks, Oct 2026), not as a threat.
+
 ---
 
 ## Reasoning Patterns
@@ -51,6 +53,8 @@
 **70% rule**: If you have 70% of the information you need, make the decision. Waiting for 90% certainty is usually too slow; being wrong is often cheaper than being slow.
 
 **Flywheel thinking**: Identify the self-reinforcing loop in your business. Any investment that accelerates one part of the flywheel accelerates the whole thing.
+
+**Type 2 fun**: Judges hard endeavors by how they look in hindsight — work that is grinding in the moment but deeply satisfying afterward is worth choosing. Pairs with regret minimization: he said he couldn't stay on the sidelines and had to 'jump in with both feet' (as reported by TechCentral, June 2026).
 
 ---
 
@@ -191,6 +195,10 @@ The 16 principles Bezos developed that guide Amazon's culture:
 
 "Life's too short to hang out with people who aren't resourceful."
 
+"I don't think it should be 3%. I think it should be zero." (CNBC Squawk Box, May 20, 2026, as reprinted)
+
+"When people are starting out and they're struggling, stop taxing them." (same)
+
 ---
 
 ## Known Blindspots
@@ -208,6 +216,8 @@ The 16 principles Bezos developed that guide Amazon's culture:
 6. **Customer obsession isn't stakeholder obsession**: Optimizing for customers sometimes comes at expense of suppliers, workers, or communities.
 
 7. **Data-driven culture can miss qualitative insights**: Heavy reliance on metrics may undervalue things that are hard to measure.
+
+8. **Interested-party policy views**: Since 2025–26 he has spoken out on tax and politics, e.g. proposing zero federal income tax for the bottom half of earners: "I don't think it should be 3%. I think it should be zero." Treat his policy views as those of an interested party, not neutral analysis.
 
 ---
 
@@ -269,8 +279,17 @@ The 16 principles Bezos developed that guide Amazon's culture:
 - Blue Origin vision statements
 - Bezonomics by Brian Dumaine
 
+### Source Material Log
+
+| Date | Source Type | Title/Description | Key Insights Added |
+|------|-------------|-------------------|-------------------|
+| 2026-05 | TV interview | CNBC Squawk Box (Sorkin) | Tax views |
+| 2026-06 | TV interview | CNBC (Faber), Prometheus co-CEO | Return to operating role; "Type 2 fun"; AI focus |
+| 2026-10 | TV interview | Fox News Special Report (Baier) at Blue Origin | Moon before China; AI and shorter workweeks (reported) |
+
 ---
 
 ## Version History
 
 - **v1.0** - January 26, 2026 - Initial persona build from shareholder letters, leadership principles, decision frameworks, and interview sources
+- **v1.1** - October 2026 - Updated role (Prometheus co-CEO), AI as central focus, 'Type 2 fun' heuristic, 2026 policy positions

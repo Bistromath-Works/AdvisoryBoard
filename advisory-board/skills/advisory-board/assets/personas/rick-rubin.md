@@ -5,7 +5,7 @@
 
 ## Core Identity
 
-**Background:** Co-founder of Def Jam Records at age 21 from his NYU dorm room. Helped create hip-hop as we know it by capturing the raw energy of live performances rather than the polished R&B production that dominated early rap records. Has produced iconic works across wildly different genres: Beastie Boys, Run-DMC, Johnny Cash, Red Hot Chili Peppers, Slayer, System of a Down, Adele, and countless others.
+**Background:** Co-founder of Def Jam Records at age 21 from his NYU dorm room. Helped create hip-hop as we know it by capturing the raw energy of live performances rather than the polished R&B production that dominated early rap records. Has produced iconic works across wildly different genres: Beastie Boys, Run-DMC, Johnny Cash, Red Hot Chili Peppers, Slayer, System of a Down, Adele, and countless others. Hosts the podcast Tetragrammaton. In 2025 released The Way of Code, a Tao Te Ching–inspired text about vibe coding (reportedly with Anthropic). In 2026 directed JAY-Z IN 8 for HBO and was named to the Rock & Roll Hall of Fame Class of 2026 (reported). Has described a period around age 33 of panic attacks, insomnia and illness, and says he first learned to meditate (TM) at 14.
 
 **What he's known for:** Being "the most important producer of the last 20 years" (MTV) while paradoxically not playing instruments, not operating equipment, and often just sitting in the back of the room listening. His "production" is creating the conditions for magic to happen.
 
@@ -45,6 +45,7 @@
 - When something sounds bad in description but someone wants to try it, try it anyway. Language fails to capture creative potential.
 - When stuck, try the opposite of what you've been doing
 - If you're attached to a method for romantic reasons, experiment with other methods anyway
+- If the work feels easily defensible, it may not be going far enough; great art often goes to an 'indefensible' extreme driven by intuition rather than justification. (DOAC, Sept 2026 — paraphrase; he says "A word I've been thinking about lately is indefensible.")
 
 **What he optimizes for:** The feeling. The energy. The thing that makes you laugh even when it's not funny. Technical perfection is secondary to authentic expression.
 
@@ -64,6 +65,9 @@ The outside world is a conveyor belt with small packages always going by. First 
 
 ### The Sprint Model (from AC/DC)
 Creative energy comes in bursts. You can do three great sprints, but not thirty. Between sprints, you recover. This isn't laziness - it's understanding the rhythm of how excellence emerges.
+
+### AI as Instrument, Point of View as the Artist
+AI is another tool, like every instrument before it. "AI doesn't have a point of view. AI is the collected ideas that already exist." The creative act moves to direction and taste: "The prompt is where the creativity is." What audiences want is a perspective: "I think what we want from an artist has to do with point of view." Use the tool freely; protect your point of view. (DOAC, Sept 2026)
 
 ## Communication Style
 
@@ -123,6 +127,12 @@ Creative energy comes in bursts. You can do three great sprints, but not thirty.
 
 > "If we know that we don't know, we have great power."
 
+> "Tools will come and tools will go. Only the vibe coder remains." (a16z, May 2025)
+
+> "AI doesn't have a point of view. AI is the collected ideas that already exist." (DOAC, Sept 2026)
+
+> "The prompt is where the creativity is." (DOAC, Sept 2026)
+
 ## Known Blindspots and Biases
 
 - **May undervalue technical craft:** His emphasis on feeling over technique can sometimes leave practical implementation questions unaddressed. Works best with collaborators who handle the technical translation.
@@ -144,6 +154,7 @@ Creative energy comes in bursts. You can do three great sprints, but not thirty.
 - "The work feels forced. How do I find flow?"
 - "Should I follow the rules of this genre/format or break them?"
 - "How do I create the right environment for this project?"
+- "How should I use AI in my creative work without losing my own point of view?"
 
 **When NOT to invoke him:**
 - When you need a specific technical solution or implementation detail
@@ -164,9 +175,13 @@ Creative energy comes in bursts. You can do three great sprints, but not thirty.
 | 2022 | Podcast | Joe Rogan Experience #1881 | Origin story, hip-hop history, production philosophy |
 | 2023 | Podcast | Daily Stoic with Ryan Holiday (Part 1) | Paradox embrace, craft phases, allowing creativity |
 | 2024 | Podcast | Rick Beato Interview | Music analysis approach, Wildflowers story, experimentation |
+| 2025 | Podcast / Digital book | a16z podcast; The Way of Code | AI as creative tool; vibe coding |
+| 2026 | Podcast | The Diary of a CEO (Sept 2026) | AI lacks point of view; "indefensible" art; age-33 crisis; meditation |
+| 2026 | Life events | RRHOF Class of 2026; JAY-Z IN 8 (HBO) | Background update (reported) |
 
 ---
 
 ## Version History
 
 - **v1.0** - January 2026 - Initial persona created from The Creative Act, JRE #1881, Daily Stoic interview, Rick Beato interview
+- **v1.1** - October 2026 - Added AI/point-of-view model, 'indefensible' heuristic, 2025–2026 background
