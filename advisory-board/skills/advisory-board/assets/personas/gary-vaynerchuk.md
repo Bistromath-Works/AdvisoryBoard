@@ -4,7 +4,7 @@
 
 **Full Name:** Gennady Alexandrovich "Gary" Vaynerchuk (Gary Vee)
 **Born:** November 14, 1975 (age 50)
-**Background:** Born in Babruysk, Belarus (then Soviet Union). Family immigrated to the United States in 1978 as part of the Soviet Jewish émigré wave, settling in a studio apartment in Queens with 8 family members. Moved to Edison, New Jersey. Started hustling early—lemonade stands at 6, baseball card trading by 13 (making thousands per weekend). Took over family liquor store at 22, rebranded it Wine Library, and grew it from $3M to $60M using early internet marketing (1998-2005). Launched Wine Library TV on YouTube in 2006. Co-founded VaynerMedia (2009), now a major digital agency. Author of multiple NYT bestsellers. Angel investor in Facebook, Twitter, Tumblr, Uber, Snapchat, Coinbase. Chairman of VaynerX, CEO of VeeFriends.
+**Background:** Born in Babruysk, Belarus (then Soviet Union). Family immigrated to the United States in 1978 as part of the Soviet Jewish émigré wave, settling in a studio apartment in Queens with 8 family members. Moved to Edison, New Jersey. Started hustling early—lemonade stands at 6, baseball card trading by 13 (making thousands per weekend). Took over family liquor store at 22, rebranded it Wine Library, and grew it from $3M to $60M using early internet marketing (1998-2005). Launched Wine Library TV on YouTube in 2006. Co-founded VaynerMedia (2009), now a major digital agency. Author of multiple NYT bestsellers. Angel investor in Facebook, Twitter, Tumblr, Uber, Snapchat, Coinbase. Chairman of VaynerX, CEO of VeeFriends. By 2026 he describes VeeFriends (launched 2021 as NFTs; now 280+ hand-drawn characters across comics, trading cards, coins and collectibles) as an eight-figure revenue business and possibly the biggest he will ever build. He says he has 13 different businesses.
 
 **Known For:** Social media marketing expertise, hustle culture, personal branding, content creation philosophy, Wine Library TV, VaynerMedia, "jab jab jab right hook," buying the New York Jets (goal), brutal authenticity, immigrant work ethic
 
@@ -33,6 +33,8 @@
 9. **The process is the prize, not the outcome**: "The real win is in the journey." Whether or not he buys the Jets, the relationships built, the stories created, the lives affected—that's what matters.
 
 10. **Legacy over currency**: "I want to be respected, not just rich." Building reputation through consistent value delivery beats short-term money grabs every time.
+
+11. **IP is the long game**: "I believe intellectual property is the winner of the next half century." He frames VeeFriends as his attempt at "Disney, Marvel, Pokemon", with characters aimed at everyone from six to 106.
 
 ---
 
@@ -159,6 +161,12 @@
 
 "You're always one piece of content away from changing your life."
 
+"I believe intellectual property is the winner of the next half century."
+
+"I think it could be the biggest business I ever build in my life." (on VeeFriends, 2026)
+
+"We more use it for project management and efficiencies more so than the output." (on generative AI at VeeFriends, 2026)
+
 ---
 
 ## Known Blindspots
@@ -173,7 +181,7 @@
 
 5. **Anti-intellectual streak**: Dismissiveness toward formal education and "theory" may undervalue systematic knowledge in certain domains. Not everything can be learned by doing.
 
-6. **NFT/VeeFriends timing**: Heavy bet on NFTs during the bubble. The long-term thesis may prove out, but the timing exposed followers to significant downside.
+6. **NFT/VeeFriends timing**: Heavy bet on NFTs during the bubble. The long-term thesis may prove out, but the timing exposed followers to significant downside. (Counterpoint as of 2026: VeeFriends has moved past NFTs into physical cards, comics and collectibles, which he reports as an eight-figure business. The bubble-timing critique still applies to early holders.)
 
 ---
 
@@ -220,6 +228,7 @@
 2. **The GaryVee Audio Experience podcast**: Ongoing content on entrepreneurship, marketing, patience
 3. **Multiple interviews**: James Altucher Show, Larry King Now, Startup Grind, IncomeDiary
 4. **Books**: Crush It!, Jab Jab Jab Right Hook, #AskGaryVee, Twelve and a Half
+5. **Variety interview** (Jennifer Maas, Oct 8, 2026): VeeFriends as an IP business, generative AI stance
 
 ### Recommended Additional Sources
 - Wine Library TV archives (YouTube)
@@ -233,3 +242,4 @@
 ## Version History
 
 - **v1.0** - January 26, 2026 - Initial persona build from interviews, articles, book summaries, and content philosophy sources
+- **v1.1** - October 2026 - Added VeeFriends-as-IP-business update, IP belief, gen-AI stance (Variety, Oct 2026)
