@@ -2,6 +2,8 @@
 
 > Eighteen advisors and one tidy way of carrying them all around. Bring your own tea.
 
+> **Not affiliated.** The people portrayed here have not endorsed, sponsored or reviewed this project. They are reconstructions from public material; see *A Note On The People In Here*.
+
 ## The Point Of The Exercise
 
 In any given week a person is required to make a number of decisions, of which roughly three genuinely matter and the remaining several hundred merely feel as though they do. The difficulty has never been making decisions, at which humans are enthusiastically prolific, but rather telling the important ones apart from the rest and then working out what to do about them, ideally before the tea goes cold.
@@ -87,7 +89,7 @@ You do not strictly need these, because the board will turn up on their own when
 
 ## A Note On The People In Here
 
-Everyone in this room is an affectionate reconstruction, assembled from public talks, books, interviews, and writing, in order to channel a way of thinking. They are not the actual individuals, they do not speak for the actual individuals, and the actual individuals are entirely unaware that they have been seated around a table and asked their opinion of your refinance strategy. Treat their advice as a useful prompt for your own judgement rather than as a verdict from on high. The judgement, in the end, stays with you. That part was never going to be outsourced.
+Everyone in this room is an affectionate reconstruction, assembled from public talks, books, interviews, and writing, in order to channel a way of thinking. They are not the actual individuals, they are not affiliated with or endorsed by this project, they do not speak for the actual individuals, and the actual individuals are entirely unaware that they have been seated around a table and asked their opinion of your refinance strategy. Treat their advice as a useful prompt for your own judgement rather than as a verdict from on high. The judgement, in the end, stays with you. That part was never going to be outsourced.
 
 ## The Long And Short Of It
 
